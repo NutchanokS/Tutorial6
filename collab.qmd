@@ -11,4 +11,9 @@ This is a collaborative Quarto project.
 
 <!-- Student sections will go here -->
 
+
+# Sammi’s Section
+
+This is my contribution to the Quarto project.
+
 Change done by person A - NS
